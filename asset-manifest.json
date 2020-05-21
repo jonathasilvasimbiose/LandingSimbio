@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/LandingSimbio/static/css/main.174013e3.chunk.css",
-    "main.js": "/LandingSimbio/static/js/main.85a4723e.chunk.js",
-    "main.js.map": "/LandingSimbio/static/js/main.85a4723e.chunk.js.map",
+    "main.css": "/LandingSimbio/static/css/main.30c309b3.chunk.css",
+    "main.js": "/LandingSimbio/static/js/main.15cfdd78.chunk.js",
+    "main.js.map": "/LandingSimbio/static/js/main.15cfdd78.chunk.js.map",
     "runtime-main.js": "/LandingSimbio/static/js/runtime-main.1f2823ae.js",
     "runtime-main.js.map": "/LandingSimbio/static/js/runtime-main.1f2823ae.js.map",
-    "static/js/2.a537b714.chunk.js": "/LandingSimbio/static/js/2.a537b714.chunk.js",
-    "static/js/2.a537b714.chunk.js.map": "/LandingSimbio/static/js/2.a537b714.chunk.js.map",
+    "static/js/2.572123d7.chunk.js": "/LandingSimbio/static/js/2.572123d7.chunk.js",
+    "static/js/2.572123d7.chunk.js.map": "/LandingSimbio/static/js/2.572123d7.chunk.js.map",
     "index.html": "/LandingSimbio/index.html",
-    "precache-manifest.a741c2092c114bfba72ec37f319b3561.js": "/LandingSimbio/precache-manifest.a741c2092c114bfba72ec37f319b3561.js",
+    "precache-manifest.71526e77dd1fd749bc4a0898529870ac.js": "/LandingSimbio/precache-manifest.71526e77dd1fd749bc4a0898529870ac.js",
     "service-worker.js": "/LandingSimbio/service-worker.js",
-    "static/css/main.174013e3.chunk.css.map": "/LandingSimbio/static/css/main.174013e3.chunk.css.map",
-    "static/js/2.a537b714.chunk.js.LICENSE.txt": "/LandingSimbio/static/js/2.a537b714.chunk.js.LICENSE.txt",
+    "static/css/main.30c309b3.chunk.css.map": "/LandingSimbio/static/css/main.30c309b3.chunk.css.map",
+    "static/js/2.572123d7.chunk.js.LICENSE.txt": "/LandingSimbio/static/js/2.572123d7.chunk.js.LICENSE.txt",
     "static/media/Landing.css": "/LandingSimbio/static/media/hero.21713129.svg",
     "static/media/J&J.svg": "/LandingSimbio/static/media/J&J.2680384a.svg",
     "static/media/animus_logo.svg": "/LandingSimbio/static/media/animus_logo.14b58e35.svg",
     "static/media/artemisia_logo.svg": "/LandingSimbio/static/media/artemisia_logo.7a4ed48a.svg",
     "static/media/brinks.svg": "/LandingSimbio/static/media/brinks.eb964918.svg",
-    "static/media/Cadastro.css": "/LandingSimbio/static/media/cadastrobackground.3a4e8b16.png",
+    "static/media/buscafiltrosimagem.svg": "/LandingSimbio/static/media/buscafiltrosimagem.bb6af6f2.svg",
+    "static/media/Cadastro.css": "/LandingSimbio/static/media/cadastrofundomobile.3c56d978.svg",
     "static/media/cesnik_logo.svg": "/LandingSimbio/static/media/cesnik_logo.580d1560.svg",
     "static/media/cogna.svg": "/LandingSimbio/static/media/cogna.68eed983.svg",
     "static/media/dicaspersonalizadas.svg": "/LandingSimbio/static/media/dicaspersonalizadas.6973101e.svg",
@@ -54,8 +55,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.1f2823ae.js",
-    "static/js/2.a537b714.chunk.js",
-    "static/css/main.174013e3.chunk.css",
-    "static/js/main.85a4723e.chunk.js"
+    "static/js/2.572123d7.chunk.js",
+    "static/css/main.30c309b3.chunk.css",
+    "static/js/main.15cfdd78.chunk.js"
   ]
 }

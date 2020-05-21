@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e0e004ccd04df60587451879abea7862",
+    "revision": "df9d9037c638e0b3c9b044170a29fb65",
     "url": "/LandingSimbio/index.html"
   },
   {
-    "revision": "f03691e4cf1e8e8497a4",
-    "url": "/LandingSimbio/static/css/main.174013e3.chunk.css"
+    "revision": "0f84e79a7092faf3e34e",
+    "url": "/LandingSimbio/static/css/main.30c309b3.chunk.css"
   },
   {
-    "revision": "eee3f94dde2e60b27c07",
-    "url": "/LandingSimbio/static/js/2.a537b714.chunk.js"
+    "revision": "96b185b299a0a87d1b71",
+    "url": "/LandingSimbio/static/js/2.572123d7.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/LandingSimbio/static/js/2.a537b714.chunk.js.LICENSE.txt"
+    "url": "/LandingSimbio/static/js/2.572123d7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f03691e4cf1e8e8497a4",
-    "url": "/LandingSimbio/static/js/main.85a4723e.chunk.js"
+    "revision": "0f84e79a7092faf3e34e",
+    "url": "/LandingSimbio/static/js/main.15cfdd78.chunk.js"
   },
   {
     "revision": "fa6d28108a0946d21941",
@@ -44,8 +44,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/LandingSimbio/static/media/brinks.eb964918.svg"
   },
   {
-    "revision": "3a4e8b16437b9740d676f58896bc325d",
-    "url": "/LandingSimbio/static/media/cadastrobackground.3a4e8b16.png"
+    "revision": "bb6af6f26d07b888e2e294680dadcfc2",
+    "url": "/LandingSimbio/static/media/buscafiltrosimagem.bb6af6f2.svg"
+  },
+  {
+    "revision": "31107a482e45ea0b731757340d2737eb",
+    "url": "/LandingSimbio/static/media/cadastro.31107a48.svg"
+  },
+  {
+    "revision": "3c56d9785d9979120bc11acbc00f7664",
+    "url": "/LandingSimbio/static/media/cadastrofundomobile.3c56d978.svg"
   },
   {
     "revision": "580d15603ec3d6b276f5e9211ec643d3",
