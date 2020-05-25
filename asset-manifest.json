@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/LandingSimbio/static/css/main.983dab21.chunk.css",
-    "main.js": "/LandingSimbio/static/js/main.7711d1ae.chunk.js",
-    "main.js.map": "/LandingSimbio/static/js/main.7711d1ae.chunk.js.map",
+    "main.css": "/LandingSimbio/static/css/main.4281e535.chunk.css",
+    "main.js": "/LandingSimbio/static/js/main.b4e08a7b.chunk.js",
+    "main.js.map": "/LandingSimbio/static/js/main.b4e08a7b.chunk.js.map",
     "runtime-main.js": "/LandingSimbio/static/js/runtime-main.1f2823ae.js",
     "runtime-main.js.map": "/LandingSimbio/static/js/runtime-main.1f2823ae.js.map",
     "static/js/2.76f30b80.chunk.js": "/LandingSimbio/static/js/2.76f30b80.chunk.js",
     "static/js/2.76f30b80.chunk.js.map": "/LandingSimbio/static/js/2.76f30b80.chunk.js.map",
     "index.html": "/LandingSimbio/index.html",
-    "precache-manifest.e74028cd48325e0d0ea467ccedec3f7d.js": "/LandingSimbio/precache-manifest.e74028cd48325e0d0ea467ccedec3f7d.js",
+    "precache-manifest.1c12a6a4b91e34790b5acd4be32976fd.js": "/LandingSimbio/precache-manifest.1c12a6a4b91e34790b5acd4be32976fd.js",
     "service-worker.js": "/LandingSimbio/service-worker.js",
-    "static/css/main.983dab21.chunk.css.map": "/LandingSimbio/static/css/main.983dab21.chunk.css.map",
+    "static/css/main.4281e535.chunk.css.map": "/LandingSimbio/static/css/main.4281e535.chunk.css.map",
     "static/js/2.76f30b80.chunk.js.LICENSE.txt": "/LandingSimbio/static/js/2.76f30b80.chunk.js.LICENSE.txt",
     "static/media/Landing.css": "/LandingSimbio/static/media/hero.21713129.svg",
     "static/media/J&J.svg": "/LandingSimbio/static/media/J&J.2680384a.svg",
@@ -63,7 +63,7 @@
   "entrypoints": [
     "static/js/runtime-main.1f2823ae.js",
     "static/js/2.76f30b80.chunk.js",
-    "static/css/main.983dab21.chunk.css",
-    "static/js/main.7711d1ae.chunk.js"
+    "static/css/main.4281e535.chunk.css",
+    "static/js/main.b4e08a7b.chunk.js"
   ]
 }
