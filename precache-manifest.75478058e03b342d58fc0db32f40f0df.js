@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "defa73a120aeb44f5a70525674aba9e6",
+    "revision": "0aa640651d038068e4b7df9496f29649",
     "url": "/LandingSimbio/index.html"
   },
   {
-    "revision": "50997c3993f885188a89",
-    "url": "/LandingSimbio/static/css/main.b53713ba.chunk.css"
+    "revision": "076f341fd8820eb14d73",
+    "url": "/LandingSimbio/static/css/main.a349b504.chunk.css"
   },
   {
     "revision": "4f3712ce964e78db0d4b",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/LandingSimbio/static/js/2.76f30b80.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "50997c3993f885188a89",
-    "url": "/LandingSimbio/static/js/main.c47dac39.chunk.js"
+    "revision": "076f341fd8820eb14d73",
+    "url": "/LandingSimbio/static/js/main.15133d50.chunk.js"
   },
   {
     "revision": "fa6d28108a0946d21941",
@@ -140,8 +140,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/LandingSimbio/static/media/plataformaEmpresa2.354f5aa7.svg"
   },
   {
-    "revision": "0f8289fda7120bda49409762fa8c3374",
-    "url": "/LandingSimbio/static/media/plataformaEmpresa3.0f8289fd.svg"
+    "revision": "d3b8ea9d6f215e3d2d4fdc90cae9e393",
+    "url": "/LandingSimbio/static/media/plataformaEmpresa3.d3b8ea9d.svg"
   },
   {
     "revision": "8e4773dba20a894403f5a2f385a4f10f",
