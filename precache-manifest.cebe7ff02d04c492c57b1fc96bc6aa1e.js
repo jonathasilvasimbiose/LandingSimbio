@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "05c5841192e9c1e72e0bf6f8125475fd",
+    "revision": "526a55e6a3880f2d11fe20e88cc880bf",
     "url": "/LandingSimbio/index.html"
   },
   {
-    "revision": "7a8fc4a397065f3aa3fc",
-    "url": "/LandingSimbio/static/css/main.37208eba.chunk.css"
+    "revision": "5d44992be7f5185a1aa1",
+    "url": "/LandingSimbio/static/css/main.9fb93c5d.chunk.css"
   },
   {
     "revision": "0af049b43efe3a924dbb",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/LandingSimbio/static/js/2.49cebd82.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7a8fc4a397065f3aa3fc",
-    "url": "/LandingSimbio/static/js/main.a70c642d.chunk.js"
+    "revision": "5d44992be7f5185a1aa1",
+    "url": "/LandingSimbio/static/js/main.3a36b73c.chunk.js"
   },
   {
     "revision": "fa6d28108a0946d21941",
@@ -122,6 +122,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5cb49b7a61febae51e02a9dd4421f31a",
     "url": "/LandingSimbio/static/media/manual.5cb49b7a.svg"
+  },
+  {
+    "revision": "cc61bbaba6a272acb326b7129f0e505c",
+    "url": "/LandingSimbio/static/media/montanhasfundo.cc61bbab.svg"
   },
   {
     "revision": "c67367e730816568071839f0328db226",

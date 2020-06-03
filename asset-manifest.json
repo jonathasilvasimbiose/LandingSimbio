@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/LandingSimbio/static/css/main.37208eba.chunk.css",
-    "main.js": "/LandingSimbio/static/js/main.a70c642d.chunk.js",
-    "main.js.map": "/LandingSimbio/static/js/main.a70c642d.chunk.js.map",
+    "main.css": "/LandingSimbio/static/css/main.9fb93c5d.chunk.css",
+    "main.js": "/LandingSimbio/static/js/main.3a36b73c.chunk.js",
+    "main.js.map": "/LandingSimbio/static/js/main.3a36b73c.chunk.js.map",
     "runtime-main.js": "/LandingSimbio/static/js/runtime-main.1f2823ae.js",
     "runtime-main.js.map": "/LandingSimbio/static/js/runtime-main.1f2823ae.js.map",
     "static/js/2.49cebd82.chunk.js": "/LandingSimbio/static/js/2.49cebd82.chunk.js",
     "static/js/2.49cebd82.chunk.js.map": "/LandingSimbio/static/js/2.49cebd82.chunk.js.map",
     "index.html": "/LandingSimbio/index.html",
-    "precache-manifest.b03b3ca6bbbbde5fe2a21b1114235f15.js": "/LandingSimbio/precache-manifest.b03b3ca6bbbbde5fe2a21b1114235f15.js",
+    "precache-manifest.cebe7ff02d04c492c57b1fc96bc6aa1e.js": "/LandingSimbio/precache-manifest.cebe7ff02d04c492c57b1fc96bc6aa1e.js",
     "service-worker.js": "/LandingSimbio/service-worker.js",
-    "static/css/main.37208eba.chunk.css.map": "/LandingSimbio/static/css/main.37208eba.chunk.css.map",
+    "static/css/main.9fb93c5d.chunk.css.map": "/LandingSimbio/static/css/main.9fb93c5d.chunk.css.map",
     "static/js/2.49cebd82.chunk.js.LICENSE.txt": "/LandingSimbio/static/js/2.49cebd82.chunk.js.LICENSE.txt",
     "static/media/Landing.css": "/LandingSimbio/static/media/hero.21713129.svg",
     "static/media/J&J.svg": "/LandingSimbio/static/media/J&J.2680384a.svg",
@@ -18,7 +18,7 @@
     "static/media/artemisia_logo.svg": "/LandingSimbio/static/media/artemisia_logo.7a4ed48a.svg",
     "static/media/brinks.svg": "/LandingSimbio/static/media/brinks.eb964918.svg",
     "static/media/buscafiltrosimagem.svg": "/LandingSimbio/static/media/buscafiltrosimagem.bb6af6f2.svg",
-    "static/media/Cadastro.css": "/LandingSimbio/static/media/cadastrofundomobile.3c56d978.svg",
+    "static/media/Cadastro.css": "/LandingSimbio/static/media/montanhasfundo.cc61bbab.svg",
     "static/media/cesnik_logo.svg": "/LandingSimbio/static/media/cesnik_logo.580d1560.svg",
     "static/media/checkbox.svg": "/LandingSimbio/static/media/checkbox.7db60297.svg",
     "static/media/checkboxChecked.svg": "/LandingSimbio/static/media/checkboxChecked.d9713df9.svg",
@@ -63,7 +63,7 @@
   "entrypoints": [
     "static/js/runtime-main.1f2823ae.js",
     "static/js/2.49cebd82.chunk.js",
-    "static/css/main.37208eba.chunk.css",
-    "static/js/main.a70c642d.chunk.js"
+    "static/css/main.9fb93c5d.chunk.css",
+    "static/js/main.3a36b73c.chunk.js"
   ]
 }
