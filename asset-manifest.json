@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/LandingSimbio/static/css/main.9d09c195.chunk.css",
-    "main.js": "/LandingSimbio/static/js/main.1e451ec2.chunk.js",
-    "main.js.map": "/LandingSimbio/static/js/main.1e451ec2.chunk.js.map",
+    "main.css": "/LandingSimbio/static/css/main.35b7ef99.chunk.css",
+    "main.js": "/LandingSimbio/static/js/main.20254b88.chunk.js",
+    "main.js.map": "/LandingSimbio/static/js/main.20254b88.chunk.js.map",
     "runtime-main.js": "/LandingSimbio/static/js/runtime-main.1f2823ae.js",
     "runtime-main.js.map": "/LandingSimbio/static/js/runtime-main.1f2823ae.js.map",
-    "static/js/2.7a0f776f.chunk.js": "/LandingSimbio/static/js/2.7a0f776f.chunk.js",
-    "static/js/2.7a0f776f.chunk.js.map": "/LandingSimbio/static/js/2.7a0f776f.chunk.js.map",
+    "static/js/2.266eae87.chunk.js": "/LandingSimbio/static/js/2.266eae87.chunk.js",
+    "static/js/2.266eae87.chunk.js.map": "/LandingSimbio/static/js/2.266eae87.chunk.js.map",
     "index.html": "/LandingSimbio/index.html",
-    "precache-manifest.c87c3aab723db95f003a68a6ef881d72.js": "/LandingSimbio/precache-manifest.c87c3aab723db95f003a68a6ef881d72.js",
+    "precache-manifest.c74fe52014c2059caf3fad5abd96feef.js": "/LandingSimbio/precache-manifest.c74fe52014c2059caf3fad5abd96feef.js",
     "service-worker.js": "/LandingSimbio/service-worker.js",
-    "static/css/main.9d09c195.chunk.css.map": "/LandingSimbio/static/css/main.9d09c195.chunk.css.map",
-    "static/js/2.7a0f776f.chunk.js.LICENSE.txt": "/LandingSimbio/static/js/2.7a0f776f.chunk.js.LICENSE.txt",
+    "static/css/main.35b7ef99.chunk.css.map": "/LandingSimbio/static/css/main.35b7ef99.chunk.css.map",
+    "static/js/2.266eae87.chunk.js.LICENSE.txt": "/LandingSimbio/static/js/2.266eae87.chunk.js.LICENSE.txt",
     "static/media/Busca_por_filtros.gif": "/LandingSimbio/static/media/Busca_por_filtros.3c2ee882.gif",
     "static/media/Dicas_personalizadas.gif": "/LandingSimbio/static/media/Dicas_personalizadas.db314099.gif",
     "static/media/Landing.css": "/LandingSimbio/static/media/hero.21713129.svg",
@@ -33,6 +33,7 @@
     "static/media/dollar.svg": "/LandingSimbio/static/media/dollar.afa72fc4.svg",
     "static/media/facebook.svg": "/LandingSimbio/static/media/facebook.ea6f637e.svg",
     "static/media/fgv_logo.svg": "/LandingSimbio/static/media/fgv_logo.d947e6a5.svg",
+    "static/media/fotoDepoimentoBruno.jpg": "/LandingSimbio/static/media/fotoDepoimentoBruno.29d33524.jpg",
     "static/media/handshake.svg": "/LandingSimbio/static/media/handshake.3a206e16.svg",
     "static/media/heineken.svg": "/LandingSimbio/static/media/heineken.cd2cfb81.svg",
     "static/media/hidePassword.svg": "/LandingSimbio/static/media/hidePassword.ba719594.svg",
@@ -76,8 +77,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.1f2823ae.js",
-    "static/js/2.7a0f776f.chunk.js",
-    "static/css/main.9d09c195.chunk.css",
-    "static/js/main.1e451ec2.chunk.js"
+    "static/js/2.266eae87.chunk.js",
+    "static/css/main.35b7ef99.chunk.css",
+    "static/js/main.20254b88.chunk.js"
   ]
 }

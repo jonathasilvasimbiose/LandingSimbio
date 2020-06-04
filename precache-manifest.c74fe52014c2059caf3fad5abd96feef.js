@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a10e435bf2c107f8bb08e555cb4735e8",
+    "revision": "6d758c7240aa10ef9addb291c25f029b",
     "url": "/LandingSimbio/index.html"
   },
   {
-    "revision": "7cf5b2d6118a10665cd3",
-    "url": "/LandingSimbio/static/css/main.9d09c195.chunk.css"
+    "revision": "a67b16eb467e0711dff2",
+    "url": "/LandingSimbio/static/css/main.35b7ef99.chunk.css"
   },
   {
-    "revision": "9b0d9358ef7b6b53e653",
-    "url": "/LandingSimbio/static/js/2.7a0f776f.chunk.js"
+    "revision": "80cab0987c34adb71ab1",
+    "url": "/LandingSimbio/static/js/2.266eae87.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/LandingSimbio/static/js/2.7a0f776f.chunk.js.LICENSE.txt"
+    "url": "/LandingSimbio/static/js/2.266eae87.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7cf5b2d6118a10665cd3",
-    "url": "/LandingSimbio/static/js/main.1e451ec2.chunk.js"
+    "revision": "a67b16eb467e0711dff2",
+    "url": "/LandingSimbio/static/js/main.20254b88.chunk.js"
   },
   {
     "revision": "fa6d28108a0946d21941",
@@ -110,6 +110,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d947e6a521a61b360ad56cd103e737c8",
     "url": "/LandingSimbio/static/media/fgv_logo.d947e6a5.svg"
+  },
+  {
+    "revision": "29d335245f2af73aa97b771eaf39dbdc",
+    "url": "/LandingSimbio/static/media/fotoDepoimentoBruno.29d33524.jpg"
   },
   {
     "revision": "3a206e16b30df0123d57219a330bf2af",
