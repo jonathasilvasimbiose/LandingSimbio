@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6d758c7240aa10ef9addb291c25f029b",
+    "revision": "72c65d512230988cb82335df8fbe8684",
     "url": "/LandingSimbio/index.html"
   },
   {
-    "revision": "a67b16eb467e0711dff2",
-    "url": "/LandingSimbio/static/css/main.35b7ef99.chunk.css"
+    "revision": "c3a5d87ad3083926d99d",
+    "url": "/LandingSimbio/static/css/main.e69f8b92.chunk.css"
   },
   {
-    "revision": "80cab0987c34adb71ab1",
-    "url": "/LandingSimbio/static/js/2.266eae87.chunk.js"
+    "revision": "86d6d188cd5fed5e3b8b",
+    "url": "/LandingSimbio/static/js/2.41d38ed6.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/LandingSimbio/static/js/2.266eae87.chunk.js.LICENSE.txt"
+    "url": "/LandingSimbio/static/js/2.41d38ed6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a67b16eb467e0711dff2",
-    "url": "/LandingSimbio/static/js/main.20254b88.chunk.js"
+    "revision": "c3a5d87ad3083926d99d",
+    "url": "/LandingSimbio/static/js/main.183092ef.chunk.js"
   },
   {
     "revision": "fa6d28108a0946d21941",
@@ -166,6 +166,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d55880e48a6944160fe163c7100e406b",
     "url": "/LandingSimbio/static/media/pcIconPlataforma.d55880e4.svg"
+  },
+  {
+    "revision": "1f87a93f64b1c7fd1e14e4b11e20bf97",
+    "url": "/LandingSimbio/static/media/planoBolinhaDesmarcada.1f87a93f.svg"
+  },
+  {
+    "revision": "0d7e184738cecff7cd68619921552116",
+    "url": "/LandingSimbio/static/media/planoBolinhaMarcada.0d7e1847.svg"
   },
   {
     "revision": "a1007dbe2c19c5953d5dca6c1c3ab074",
