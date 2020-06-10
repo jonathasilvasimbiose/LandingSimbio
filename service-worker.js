@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/LandingSimbio/precache-manifest.30a5065c3ba08d70cffeac4ac57d8a0e.js"
+  "/LandingSimbio/precache-manifest.84ec7b0975c3119afbb1991e450394e7.js"
 );
 
 self.addEventListener('message', (event) => {
