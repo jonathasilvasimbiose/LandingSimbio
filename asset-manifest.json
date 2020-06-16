@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/LandingSimbio/static/css/main.e3480b1b.chunk.css",
-    "main.js": "/LandingSimbio/static/js/main.9fafea88.chunk.js",
-    "main.js.map": "/LandingSimbio/static/js/main.9fafea88.chunk.js.map",
+    "main.css": "/LandingSimbio/static/css/main.b386e048.chunk.css",
+    "main.js": "/LandingSimbio/static/js/main.9cd63cea.chunk.js",
+    "main.js.map": "/LandingSimbio/static/js/main.9cd63cea.chunk.js.map",
     "runtime-main.js": "/LandingSimbio/static/js/runtime-main.1f2823ae.js",
     "runtime-main.js.map": "/LandingSimbio/static/js/runtime-main.1f2823ae.js.map",
-    "static/js/2.c22daf75.chunk.js": "/LandingSimbio/static/js/2.c22daf75.chunk.js",
-    "static/js/2.c22daf75.chunk.js.map": "/LandingSimbio/static/js/2.c22daf75.chunk.js.map",
+    "static/js/2.55dcc927.chunk.js": "/LandingSimbio/static/js/2.55dcc927.chunk.js",
+    "static/js/2.55dcc927.chunk.js.map": "/LandingSimbio/static/js/2.55dcc927.chunk.js.map",
     "index.html": "/LandingSimbio/index.html",
-    "precache-manifest.1c712b3f0d4b3d491fb59b36748236ad.js": "/LandingSimbio/precache-manifest.1c712b3f0d4b3d491fb59b36748236ad.js",
+    "precache-manifest.f1d95c6f9bb0a99aef7323c630d18f66.js": "/LandingSimbio/precache-manifest.f1d95c6f9bb0a99aef7323c630d18f66.js",
     "service-worker.js": "/LandingSimbio/service-worker.js",
-    "static/css/main.e3480b1b.chunk.css.map": "/LandingSimbio/static/css/main.e3480b1b.chunk.css.map",
-    "static/js/2.c22daf75.chunk.js.LICENSE.txt": "/LandingSimbio/static/js/2.c22daf75.chunk.js.LICENSE.txt",
+    "static/css/main.b386e048.chunk.css.map": "/LandingSimbio/static/css/main.b386e048.chunk.css.map",
+    "static/js/2.55dcc927.chunk.js.LICENSE.txt": "/LandingSimbio/static/js/2.55dcc927.chunk.js.LICENSE.txt",
     "static/media/Busca_por_filtros.gif": "/LandingSimbio/static/media/Busca_por_filtros.3c2ee882.gif",
     "static/media/Dicas_personalizadas.gif": "/LandingSimbio/static/media/Dicas_personalizadas.db314099.gif",
     "static/media/Landing.css": "/LandingSimbio/static/media/hero.21713129.svg",
@@ -82,8 +82,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.1f2823ae.js",
-    "static/js/2.c22daf75.chunk.js",
-    "static/css/main.e3480b1b.chunk.css",
-    "static/js/main.9fafea88.chunk.js"
+    "static/js/2.55dcc927.chunk.js",
+    "static/css/main.b386e048.chunk.css",
+    "static/js/main.9cd63cea.chunk.js"
   ]
 }
