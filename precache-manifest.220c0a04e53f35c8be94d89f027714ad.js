@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4c66122e9ebd76abebaf5e34199a542f",
+    "revision": "b7ee854bab4ea3b25f0138fbbe65db2e",
     "url": "/LandingSimbio/index.html"
   },
   {
-    "revision": "ef403318585c52fdd0bb",
-    "url": "/LandingSimbio/static/css/main.825775b7.chunk.css"
+    "revision": "6782e81b538c60bd2d5d",
+    "url": "/LandingSimbio/static/css/main.8ddf0156.chunk.css"
   },
   {
-    "revision": "7e2b7685fada827ef43f",
-    "url": "/LandingSimbio/static/js/2.198cf32c.chunk.js"
+    "revision": "bdd143ec2edb2058af10",
+    "url": "/LandingSimbio/static/js/2.0b0fa440.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/LandingSimbio/static/js/2.198cf32c.chunk.js.LICENSE.txt"
+    "url": "/LandingSimbio/static/js/2.0b0fa440.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ef403318585c52fdd0bb",
-    "url": "/LandingSimbio/static/js/main.cfa6dbab.chunk.js"
+    "revision": "6782e81b538c60bd2d5d",
+    "url": "/LandingSimbio/static/js/main.455e80b3.chunk.js"
   },
   {
     "revision": "fa6d28108a0946d21941",
@@ -172,12 +172,52 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/LandingSimbio/static/media/montanhasfundo.cc61bbab.svg"
   },
   {
+    "revision": "5cc74ef8a4c422084726eb9dd1163b82",
+    "url": "/LandingSimbio/static/media/montserrat-v14-latin-regular.5cc74ef8.eot"
+  },
+  {
+    "revision": "6a9e85ac9247f5848db957b873c62e0c",
+    "url": "/LandingSimbio/static/media/montserrat-v14-latin-regular.6a9e85ac.ttf"
+  },
+  {
+    "revision": "8102c4838f9e3d08dad644290a9cb701",
+    "url": "/LandingSimbio/static/media/montserrat-v14-latin-regular.8102c483.woff"
+  },
+  {
+    "revision": "bc3aa95dca08f5fee5291e34959c27bc",
+    "url": "/LandingSimbio/static/media/montserrat-v14-latin-regular.bc3aa95d.woff2"
+  },
+  {
+    "revision": "f3fef7e587e6c436df1d7985b2a90ada",
+    "url": "/LandingSimbio/static/media/montserrat-v14-latin-regular.f3fef7e5.svg"
+  },
+  {
     "revision": "0456366e03afaed900c44fb63387cb5a",
     "url": "/LandingSimbio/static/media/news_icon.0456366e.svg"
   },
   {
     "revision": "c67367e730816568071839f0328db226",
     "url": "/LandingSimbio/static/media/nossa_missao.c67367e7.svg"
+  },
+  {
+    "revision": "049a929c5d81988b3ae6d2f985ca7aa5",
+    "url": "/LandingSimbio/static/media/open-sans-v17-latin-regular.049a929c.ttf"
+  },
+  {
+    "revision": "33543c5cc5d88f5695dd08c87d280dfd",
+    "url": "/LandingSimbio/static/media/open-sans-v17-latin-regular.33543c5c.woff2"
+  },
+  {
+    "revision": "5f4d4bc11d64b6cb605b7030c1997270",
+    "url": "/LandingSimbio/static/media/open-sans-v17-latin-regular.5f4d4bc1.eot"
+  },
+  {
+    "revision": "7aab4c13671282c90669eb6a10357e41",
+    "url": "/LandingSimbio/static/media/open-sans-v17-latin-regular.7aab4c13.svg"
+  },
+  {
+    "revision": "de0869e324680c99efa1250515b4b41c",
+    "url": "/LandingSimbio/static/media/open-sans-v17-latin-regular.de0869e3.woff"
   },
   {
     "revision": "8d4243cd5a5056bb47cd6c8f5e7daaf2",
