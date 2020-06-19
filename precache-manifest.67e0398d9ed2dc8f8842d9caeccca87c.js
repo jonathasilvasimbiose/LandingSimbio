@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6f8548fd8f8eef09797e1d11f60deca2",
+    "revision": "bb3fe2efc8c532df6027083f1266a8d4",
     "url": "/LandingSimbio/index.html"
   },
   {
-    "revision": "abf7225437194075024c",
-    "url": "/LandingSimbio/static/css/main.a67deab1.chunk.css"
+    "revision": "2386102456c175cac892",
+    "url": "/LandingSimbio/static/css/main.8f6262b6.chunk.css"
   },
   {
     "revision": "bdd143ec2edb2058af10",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/LandingSimbio/static/js/2.0b0fa440.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "abf7225437194075024c",
+    "revision": "2386102456c175cac892",
     "url": "/LandingSimbio/static/js/main.24c8c2be.chunk.js"
   },
   {

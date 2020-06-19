@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/LandingSimbio/static/css/main.a67deab1.chunk.css",
+    "main.css": "/LandingSimbio/static/css/main.8f6262b6.chunk.css",
     "main.js": "/LandingSimbio/static/js/main.24c8c2be.chunk.js",
     "main.js.map": "/LandingSimbio/static/js/main.24c8c2be.chunk.js.map",
     "runtime-main.js": "/LandingSimbio/static/js/runtime-main.1f2823ae.js",
@@ -8,9 +8,9 @@
     "static/js/2.0b0fa440.chunk.js": "/LandingSimbio/static/js/2.0b0fa440.chunk.js",
     "static/js/2.0b0fa440.chunk.js.map": "/LandingSimbio/static/js/2.0b0fa440.chunk.js.map",
     "index.html": "/LandingSimbio/index.html",
-    "precache-manifest.4778534b52a54fa5ee6df435234230f8.js": "/LandingSimbio/precache-manifest.4778534b52a54fa5ee6df435234230f8.js",
+    "precache-manifest.67e0398d9ed2dc8f8842d9caeccca87c.js": "/LandingSimbio/precache-manifest.67e0398d9ed2dc8f8842d9caeccca87c.js",
     "service-worker.js": "/LandingSimbio/service-worker.js",
-    "static/css/main.a67deab1.chunk.css.map": "/LandingSimbio/static/css/main.a67deab1.chunk.css.map",
+    "static/css/main.8f6262b6.chunk.css.map": "/LandingSimbio/static/css/main.8f6262b6.chunk.css.map",
     "static/js/2.0b0fa440.chunk.js.LICENSE.txt": "/LandingSimbio/static/js/2.0b0fa440.chunk.js.LICENSE.txt",
     "static/media/Busca_por_filtros.gif": "/LandingSimbio/static/media/Busca_por_filtros.3c2ee882.gif",
     "static/media/Dicas_personalizadas.gif": "/LandingSimbio/static/media/Dicas_personalizadas.db314099.gif",
@@ -85,7 +85,7 @@
   "entrypoints": [
     "static/js/runtime-main.1f2823ae.js",
     "static/js/2.0b0fa440.chunk.js",
-    "static/css/main.a67deab1.chunk.css",
+    "static/css/main.8f6262b6.chunk.css",
     "static/js/main.24c8c2be.chunk.js"
   ]
 }
