@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5706068f18ceccd2773360b3a89eda0f",
+    "revision": "6f8548fd8f8eef09797e1d11f60deca2",
     "url": "/LandingSimbio/index.html"
   },
   {
-    "revision": "f212529d9c890d00485d",
-    "url": "/LandingSimbio/static/css/main.de646968.chunk.css"
+    "revision": "abf7225437194075024c",
+    "url": "/LandingSimbio/static/css/main.a67deab1.chunk.css"
   },
   {
     "revision": "bdd143ec2edb2058af10",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/LandingSimbio/static/js/2.0b0fa440.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f212529d9c890d00485d",
-    "url": "/LandingSimbio/static/js/main.455e80b3.chunk.js"
+    "revision": "abf7225437194075024c",
+    "url": "/LandingSimbio/static/js/main.24c8c2be.chunk.js"
   },
   {
     "revision": "fa6d28108a0946d21941",
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/LandingSimbio/static/media/Dicas_personalizadas.db314099.gif"
   },
   {
-    "revision": "2a49e5504d31c1928298ed049321106d",
-    "url": "/LandingSimbio/static/media/FrameMobile.2a49e550.png"
+    "revision": "9927c3dc047bef5d335de6576d0d2550",
+    "url": "/LandingSimbio/static/media/FundoPrincipalMobile.9927c3dc.svg"
   },
   {
     "revision": "2680384ac4e28e987ccb9c7b5726be31",
@@ -162,10 +162,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c00783b245c81832c550c846f8fb8feb",
     "url": "/LandingSimbio/static/media/logo.c00783b2.svg"
-  },
-  {
-    "revision": "5cb49b7a61febae51e02a9dd4421f31a",
-    "url": "/LandingSimbio/static/media/manual.5cb49b7a.svg"
   },
   {
     "revision": "cc61bbaba6a272acb326b7129f0e505c",
