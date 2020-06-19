@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/LandingSimbio/static/css/main.106fb57a.chunk.css",
-    "main.js": "/LandingSimbio/static/js/main.24c8c2be.chunk.js",
-    "main.js.map": "/LandingSimbio/static/js/main.24c8c2be.chunk.js.map",
+    "main.css": "/LandingSimbio/static/css/main.ef442030.chunk.css",
+    "main.js": "/LandingSimbio/static/js/main.11d3e865.chunk.js",
+    "main.js.map": "/LandingSimbio/static/js/main.11d3e865.chunk.js.map",
     "runtime-main.js": "/LandingSimbio/static/js/runtime-main.1f2823ae.js",
     "runtime-main.js.map": "/LandingSimbio/static/js/runtime-main.1f2823ae.js.map",
     "static/js/2.0b0fa440.chunk.js": "/LandingSimbio/static/js/2.0b0fa440.chunk.js",
     "static/js/2.0b0fa440.chunk.js.map": "/LandingSimbio/static/js/2.0b0fa440.chunk.js.map",
     "index.html": "/LandingSimbio/index.html",
-    "precache-manifest.8e82b08090d1ab71d3191affda164d68.js": "/LandingSimbio/precache-manifest.8e82b08090d1ab71d3191affda164d68.js",
+    "precache-manifest.65a2cf2db86e005bad769a48704a4731.js": "/LandingSimbio/precache-manifest.65a2cf2db86e005bad769a48704a4731.js",
     "service-worker.js": "/LandingSimbio/service-worker.js",
-    "static/css/main.106fb57a.chunk.css.map": "/LandingSimbio/static/css/main.106fb57a.chunk.css.map",
+    "static/css/main.ef442030.chunk.css.map": "/LandingSimbio/static/css/main.ef442030.chunk.css.map",
     "static/js/2.0b0fa440.chunk.js.LICENSE.txt": "/LandingSimbio/static/js/2.0b0fa440.chunk.js.LICENSE.txt",
     "static/media/Busca_por_filtros.gif": "/LandingSimbio/static/media/Busca_por_filtros.3c2ee882.gif",
     "static/media/Dicas_personalizadas.gif": "/LandingSimbio/static/media/Dicas_personalizadas.db314099.gif",
@@ -85,7 +85,7 @@
   "entrypoints": [
     "static/js/runtime-main.1f2823ae.js",
     "static/js/2.0b0fa440.chunk.js",
-    "static/css/main.106fb57a.chunk.css",
-    "static/js/main.24c8c2be.chunk.js"
+    "static/css/main.ef442030.chunk.css",
+    "static/js/main.11d3e865.chunk.js"
   ]
 }
