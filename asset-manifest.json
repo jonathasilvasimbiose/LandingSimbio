@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/LandingSimbio/static/css/main.ef442030.chunk.css",
-    "main.js": "/LandingSimbio/static/js/main.11d3e865.chunk.js",
-    "main.js.map": "/LandingSimbio/static/js/main.11d3e865.chunk.js.map",
+    "main.css": "/LandingSimbio/static/css/main.6cc3d130.chunk.css",
+    "main.js": "/LandingSimbio/static/js/main.648c7181.chunk.js",
+    "main.js.map": "/LandingSimbio/static/js/main.648c7181.chunk.js.map",
     "runtime-main.js": "/LandingSimbio/static/js/runtime-main.1f2823ae.js",
     "runtime-main.js.map": "/LandingSimbio/static/js/runtime-main.1f2823ae.js.map",
-    "static/js/2.0b0fa440.chunk.js": "/LandingSimbio/static/js/2.0b0fa440.chunk.js",
-    "static/js/2.0b0fa440.chunk.js.map": "/LandingSimbio/static/js/2.0b0fa440.chunk.js.map",
+    "static/js/2.7da6cb94.chunk.js": "/LandingSimbio/static/js/2.7da6cb94.chunk.js",
+    "static/js/2.7da6cb94.chunk.js.map": "/LandingSimbio/static/js/2.7da6cb94.chunk.js.map",
     "index.html": "/LandingSimbio/index.html",
-    "precache-manifest.65a2cf2db86e005bad769a48704a4731.js": "/LandingSimbio/precache-manifest.65a2cf2db86e005bad769a48704a4731.js",
+    "precache-manifest.1c625cb6c710cf8737eb0da041bfec00.js": "/LandingSimbio/precache-manifest.1c625cb6c710cf8737eb0da041bfec00.js",
     "service-worker.js": "/LandingSimbio/service-worker.js",
-    "static/css/main.ef442030.chunk.css.map": "/LandingSimbio/static/css/main.ef442030.chunk.css.map",
-    "static/js/2.0b0fa440.chunk.js.LICENSE.txt": "/LandingSimbio/static/js/2.0b0fa440.chunk.js.LICENSE.txt",
+    "static/css/main.6cc3d130.chunk.css.map": "/LandingSimbio/static/css/main.6cc3d130.chunk.css.map",
+    "static/js/2.7da6cb94.chunk.js.LICENSE.txt": "/LandingSimbio/static/js/2.7da6cb94.chunk.js.LICENSE.txt",
     "static/media/Busca_por_filtros.gif": "/LandingSimbio/static/media/Busca_por_filtros.3c2ee882.gif",
     "static/media/Dicas_personalizadas.gif": "/LandingSimbio/static/media/Dicas_personalizadas.db314099.gif",
     "static/media/Landing.css": "/LandingSimbio/static/media/open-sans-v17-latin-regular.de0869e3.woff",
@@ -84,8 +84,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.1f2823ae.js",
-    "static/js/2.0b0fa440.chunk.js",
-    "static/css/main.ef442030.chunk.css",
-    "static/js/main.11d3e865.chunk.js"
+    "static/js/2.7da6cb94.chunk.js",
+    "static/css/main.6cc3d130.chunk.css",
+    "static/js/main.648c7181.chunk.js"
   ]
 }
